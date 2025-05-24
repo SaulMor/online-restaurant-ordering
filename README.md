@@ -1,4 +1,6 @@
 # 🍽️ Online Restaurant Ordering API
+Project Presentation and Demo Recording:
+https://drive.google.com/file/d/1UUOv6jKPa2uJAMbQkH4kC4QSWkYTY4Ro/view?usp=sharing
 
 A backend application for managing restaurant orders, users, and payments. Built using FastAPI, SQLAlchemy, and PyMySQL as part of a class final project (Jan–May 2024).
 
@@ -33,7 +35,3 @@ pip install pytest
 pip install pytest-mock
 pip install httpx
 pip install cryptography
-
-
-Project Presentation and Demo Recording:
-https://drive.google.com/file/d/1UUOv6jKPa2uJAMbQkH4kC4QSWkYTY4Ro/view?usp=sharing
